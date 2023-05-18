@@ -31,4 +31,3 @@ jobs:
     - name: Deploy with Docker Compose
       run: |
         docker-compose up -d
-
